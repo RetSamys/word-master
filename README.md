@@ -1,4 +1,4 @@
-# Word Master
+# Word Master - adapted for toki pona
 
 🔗 https://octokatherine.github.io/word-master/
 
